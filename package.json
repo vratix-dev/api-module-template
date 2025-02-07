@@ -1,0 +1,10 @@
+{
+  "name": "api-module-template",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "dependencies": {
+    
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "key": "api-module-template",
+  "version": "1.0.0",
+  "name": "API Module Template",
+  "description": "This is a basic template of a Vratix Private Module",
+  "typescript": true,
+  "framework": "express",
+  "folders": {
+    "controllers": "controllers",
+    "routes": "routes",
+    "middleware": "middleware",
+    "utils": "utils",
+    "databaseMigrations": "db-migrations"
+  },
+  "registryDependencies": [],
+  "communityDependencies": []
+}
